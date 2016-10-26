@@ -1,2 +1,8 @@
 [color]
 	ui = true
+[core]
+	autocrlf = false
+	safecrlf = false
+[user]
+	name = maxim
+	email = sergiiets@ukr.net
